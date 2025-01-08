@@ -22,16 +22,16 @@
 <table align="center">
   <tr>
     <td align="center" width="100">
-     <a href="https://linkedin.com/in/naimish varsani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naimish varsani" height="30" width="40" /></a>
-      <br>Flutter
+     <a href="https://www.linkedin.com/in/naimish-varsani-3715aa208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naimish varsani" height="30" width="40" /></a>
+      <br>Linkedin
     </td>
      <td align="center" width="100">
    <a href="https://fb.com/naimish varsani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naimish varsani" height="30" width="40" /></a>
-      <br>Flutter
+      <br>Facebook
     </td>
         <td align="center" width="100">
      <a href="https://instagram.com/naimish_varsani_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naimish_varsani_007" height="30" width="40" /></a>
-      <br>Flutter
+      <br>Instagram
     </td>
   </tr>
 </table>
