@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif)
 <h1 align="center">Hi 👋, I'm Naimish Varsani</h1>
 <h3 align="center">A passionate mobile app developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
+<img align="right" alt="Coding" width="250" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimishvarsani&label=Profile%20views&color=0e75b6&style=flat" alt="naimishvarsani" /> </p>
 
@@ -15,12 +15,27 @@
 
 - 📫 How to reach me **naimish587@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/naimish varsani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naimish varsani" height="30" width="40" /></a>
-<a href="https://fb.com/naimish varsani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naimish varsani" height="30" width="40" /></a>
-<a href="https://instagram.com/naimish_varsani_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naimish_varsani_007" height="30" width="40" /></a>
-</p>
+
+
+<h3 align="center"><samp>💻 Connect With Me 💻</samp></h3>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+     <a href="https://linkedin.com/in/naimish varsani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naimish varsani" height="30" width="40" /></a>
+      <br>Flutter
+    </td>
+     <td align="center" width="100">
+   <a href="https://fb.com/naimish varsani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naimish varsani" height="30" width="40" /></a>
+      <br>Flutter
+    </td>
+        <td align="center" width="100">
+     <a href="https://instagram.com/naimish_varsani_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naimish_varsani_007" height="30" width="40" /></a>
+      <br>Flutter
+    </td>
+  </tr>
+</table>
+
 
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
@@ -134,7 +149,11 @@
 </table>
 <br><br>
 </div>
+<h3 align="center"><samp>📟 GitHub Stats</samp></h3>
+<div style="display: flex; justify-content: space-between; align-items: stretch;">
+  <!-- Top Languages Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naimishvarsani&show_icons=true&locale=en&layout=compact" alt="Naimish Top Languages" width="48%" height="200" style="object-fit: cover;"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimishvarsani" alt="NaimishSG GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimishvarsani&show_icons=true&locale=en&layout=compact" alt="naimishvarsani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimishvarsani&" alt="naimishvarsani" /></p>
