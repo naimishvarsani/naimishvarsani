@@ -154,6 +154,6 @@
   <!-- Top Languages Stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naimishvarsani&show_icons=true&locale=en&layout=compact" alt="Naimish Top Languages" width="48%" height="200" style="object-fit: cover;"/>
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimishvarsani" alt="NaimishSG GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimishvarsani" alt="naimishvarsani GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
 </div>
 
