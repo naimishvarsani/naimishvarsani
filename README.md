@@ -1,4 +1,4 @@
-<img width=100% title="Hrsh-Sidhpuria" alt="Hrsh-Sidhpuria" src="https://capsule-render.vercel.app/api?type=waving&height=188&color=gradient&customColorList=4,9&text=Harsh%20Sidhpuria&textBg=false&animation=twinkling&reversal=false"/>
+<img width=100% title="Naimish Varsani" alt="Naimish Varsani" src="https://capsule-render.vercel.app/api?type=waving&height=188&color=gradient&customColorList=4,9&text=Harsh%20Sidhpuria&textBg=false&animation=twinkling&reversal=false"/>
 <h3 align="center">A passionate mobile app developer from India</h3>
 <img align="right" alt="Coding" width="250" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
 
