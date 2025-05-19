@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👨‍💻 All of my projects are available at [https://naimishvarsani.github.io/](https://naimishvarsani.github.io/)
-
 - 💬 Ask me about **Flutter,ReactNative And Kotlin**
 
 - 📫 How to reach me **naimish587@gmail.com**
