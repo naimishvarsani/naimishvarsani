@@ -54,7 +54,7 @@
       <br>Firebase
     </td>
       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/bloc.png" alt="icon" width="45" height="50" />
+        <img src="https://camo.githubusercontent.com/bcdbf585f4b3a7a60cb6e64acc8c8fdd486266780d1d0e3bcf87f018a7d8e91f/68747470733a2f2f6170692e696e746f70726f732e636f6d2f75706c6f6164732f323032332d30332f756e617574682d313637393339393231353830302d35333034626536346262383934396630623138653731623566393434383863302e706e67" alt="icon" width="45" height="50" />
       <br>BLoC
     </td>
    <td align="center" width="100">
